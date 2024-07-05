@@ -1,6 +1,4 @@
-# Deployed link:
-[https://capable-fudge-974d8e.netlify.app/](url)
-
+[https://capable-fudge-974d8e.netlify.app/]
 
 # Getting Started with Create React App
 
